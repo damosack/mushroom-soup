@@ -13,3 +13,6 @@
     All this to say that when I read Kohn's piece, it's hard to find anything to disagree with. I know first hand that grading is corrosive to any earnest motivation to acquire knowledge. It is often bizarre how students (including myself) and instructors are willing to work together to ignore this basic fact in their united, petty pursuit of higher evaluations. For instance, I have been supplied on more than one occasion with a practice exam which is completely identical to the actual midterm or final for which it was intended to serve as study guide. Surely once instructors are resorting to providing the actual exam as study material there can be no more intellectual justification for that study than for a word search in the sunday newspaper, and yet this is the lemming insanity normalized in traditional education, which even I sometimes find myself mindlessly afraid to abandon.
 
 ![](https://64.media.tumblr.com/b494d95bf5c10a3785b2af2b05aae9f5/tumblr_oy9bzwdncw1s5k7k3o1_r1_400.gif)
+-----------------------------------------
+
+P.S. my bad but not sure how to rename the repository. The first step under the preparation 01 materials says to name the "reflection" preparation01, and so I got a little confused and just named the repo something random. Anyway, my apologies for the inconvenience.
